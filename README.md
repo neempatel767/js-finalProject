@@ -1,5 +1,5 @@
 # Project Starter files
-priyam patel ,neem patel , aksh shah
+Group members:- priyam patel ,neem patel , aksh shah
 
 priyam:-
 made models,
@@ -21,6 +21,13 @@ made connection in the routers for client
 aksh:-
 helped with everything. 
 
+Login detais: 
+ID- 123@123.com
+Password:- 123
+
+
+github link :- https://github.com/neempatel767/js-finalProject/edit/main/README.md
+netlify link:- https://suspicious-lamport-09f162.netlify.app/
 
 ## Includes:
 
